@@ -1,0 +1,1 @@
+Copy-Item -Force -Path "./git-hook.commit-msg.sh" -Destination "./.git/hooks/commit-msg"
