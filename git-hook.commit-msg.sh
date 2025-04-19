@@ -8,8 +8,7 @@
 #
 # To enable this hook, rename this file to "commit-msg".
 
-
-# test Uncomment the below to add a Signed-off-by line to the message.
+# Uncomment the below to add a Signed-off-by line to the message.
 # Doing this in a hook is a bad idea in general, but the prepare-commit-msg
 # hook is more suited to it.
 #
